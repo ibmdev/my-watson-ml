@@ -10,3 +10,8 @@ https://www.ibm.com/support/knowledgecenter/DSXDOC/analyze-data/ml-mnist-tutoria
 https://www.jenunderwood.com/2018/07/31/introduction-to-machine-learning-with-ibm-watson-studio/
 ## IBM Watson Studio Installing 
 https://www.ibm.com/support/knowledgecenter/en/SSBFT6_1.1.0/wsd/installing.html
+
+## Titanic: Machine Learning from Disaster
+https://www.kaggle.com/c/titanic/data
+
+
